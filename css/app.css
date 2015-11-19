@@ -1,0 +1,37 @@
+html{
+  background-color: #ffffff;
+}
+body{
+  margin: 0;
+}
+
+
+h1{
+
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  position:relative;
+  top: 30vh;
+  left: 50%;
+  margin-left: -10vw;
+}
+#bill{
+
+  position:relative;
+  top: 30vh;
+  left: 50%;
+    margin-left: -10vw;
+}
+
+h2{
+
+  position:relative;
+  top: 30vh;
+  left: 50%;
+    margin-left: -10vw;
+}
+#submit{
+  position:relative;
+  top: 30vh;
+  left: 50%;
+  
+}
