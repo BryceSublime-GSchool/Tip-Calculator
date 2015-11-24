@@ -13,7 +13,16 @@
 <form action="index.html" method="post">
 
     <input id="bill" type="text" name="bill" value="" placeholder="Enter Total Bill">
+      <select id="percentage" name="Percentage">
+        <option value="0">How Much?</option>
+        <option value=".1">10%</option>
+        <option value=".15">15%</option>
+        <option value=".2">20%</option>
+        <option value=".25" >25%</option>
+      </select>
     <input id="submit" type="button" name="Calculate Tip" value="Calculate Tip" onclick="calcTip()">
+
+
     <h2>Tip to leave = <span id="tip"></span></h2>
 
 </form>
