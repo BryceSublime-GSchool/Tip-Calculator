@@ -1,5 +1,5 @@
-html{
-  background-color: #ffffff;
+/*html{
+  background-color: #4982B0;
 }
 body{
   margin: 0;
@@ -8,18 +8,21 @@ body{
 
 h1{
 
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
   position:relative;
   top: 30vh;
   left: 50%;
   margin-left: -10vw;
+  font-size: 72px;
+  color: #0B2840;
 }
 #bill{
 
   position:relative;
   top: 30vh;
   left: 50%;
-    margin-left: -10vw;
+  margin-left: -10vw;
 }
 
 h2{
@@ -40,4 +43,4 @@ h2{
   position:relative;
   top: 30vh;
   left: 50%;
-}
+}*/
